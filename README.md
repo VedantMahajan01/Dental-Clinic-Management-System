@@ -1,4 +1,5 @@
 **Dental Clinic Management System**
+
 This repository contains a Dental Clinic Management System developed using C# for application logic and MySQL for database management. The system is designed to streamline and automate the day-to-day operations of a dental clinic, making it easier to manage patients, appointments, and clinic records.
 
 **Features**
