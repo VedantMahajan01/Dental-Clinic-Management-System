@@ -10,8 +10,9 @@ This repository contains a Dental Clinic Management System developed using C# fo
 - Authentication: Secure login for clinic staff and administrators.
 - Database Integration: Fully connected to MySQL for efficient data storage and retrieval.
 
-  <img src="Screenshots/Sr7.png" width="500">
-  <img src="Screenshots/Sr7.png" width="500">
+  <img src="Screenshots/Sr1.png" width="600">
+  
+  <img src="Screenshots/Sr7.png" width="600">
   
 **Technical Environment**
 - Programming Language: C#
