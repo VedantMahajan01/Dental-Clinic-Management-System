@@ -2,7 +2,7 @@
 
 This repository contains a Dental Clinic Management System developed using C# for application logic and MySQL for database management. The system is designed to streamline and automate the day-to-day operations of a dental clinic, making it easier to manage patients, appointments, and clinic records.
 
-**Features**
+***Features***
 - Patient Management: Add, update, delete, and view patient details.
 - Appointment Scheduling: Book, reschedule, and cancel appointments.
 - Dashboard: Visual overview of clinic statistics including active patients, upcoming appointments, and revenue insights.
@@ -14,17 +14,17 @@ This repository contains a Dental Clinic Management System developed using C# fo
   
   <img src="Screenshots/Sr7.png" width="600">
   
-**Technical Environment**
+***Technical Environment***
 - Programming Language: C#
 - Database: MySQL
 
-**Frameworks & Tools**
+***Frameworks & Tools***
 - .NET Framework
 - Windows Forms (WinForms)
 - MySQL Connector for .NET
 - Visual Studio
 
-**Modules**
+***Modules***
 - Login Module: Secure authentication for admins and staff.
 - Patient Module: Manage patient demographics and history.
 - Appointment Module: Schedule and manage appointments.
